@@ -72,15 +72,6 @@ flowchart LR
 | [deepfence-blur](https://github.com/Codyssey-ROOT/deepfence-blur) | 개인정보 탐지·블러 서버 | Python, FastAPI, ONNX Runtime, OpenCV |
 | [deepfence-faceshield](https://github.com/Codyssey-ROOT/deepfence-faceshield) | 딥페이크 방어 GPU 워커 | Python, FaceShield |
 
-## 팀원
-
-<!-- TODO: 권창범·김민수 담당 업무를 확인해 주세요 -->
-
-| 이름 | 역할 | 담당 |
-| --- | --- | --- |
-| 권창범 | AI · Backend | |
-| 김민수 | AI · Backend | API 서버, Blur·FaceShield 서버 연동 |
-| 조희우 | Frontend | 디자인 시스템, 웹 클라이언트, Vercel 배포 |
 
 ## 기대 효과
 
